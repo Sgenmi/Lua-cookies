@@ -1,7 +1,9 @@
 Lua-cookies
 ===========
 
+种cookie,效率相高
 
-在大数量世界 ，
+运用了lua-resty-uuid 生成唯一码
+
 
 使用lua种cookie
